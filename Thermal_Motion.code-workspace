@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Thermal_Motion",
+			"path": "."
+		},
+		{
+			"name": "data",
+			"path": "../../../Downloads/EngSci/PHY294/thermalMotion/data"
+		}
+	],
+	"settings": {}
+}
